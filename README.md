@@ -1,5 +1,5 @@
 ### 👋 Hi there! I'm @0glonk
-I'm an aspiring **software developer** with a passion for learning and building. Currently, I'm focused on mastering **Java** and **Python** to prepare for a career in software development.
+I'm an aspiring **software developer** with a passion for learning and building. Currently, I'm focused on mastering **Java** and **Python** to prepare for a career in software development. But I'm not limited to Java and Python, I learn whatever I can!
 
 ### 👀 What I'm Interested In:
 - Java and Python Development
