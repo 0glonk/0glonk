@@ -2,7 +2,7 @@
 
 
 ### 📫 How to Reach Me:
-- **LinkedIn:** [Ece Basar](https://www.linkedin.com/in/ece-basar-093475180/)
+- **LinkedIn:** [Ece Basar](www.linkedin.com/in/ece-basar-ceszyk-093475180)
 
 ### 😄 Pronouns:
 - She/Her
